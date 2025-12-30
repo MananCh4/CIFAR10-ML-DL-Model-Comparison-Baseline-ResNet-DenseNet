@@ -71,7 +71,7 @@ Feature map visualization was applied to ResNet18’s first convolutional layer 
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
-cd cifar10-cnn-project
+git clone https://github.com/MananCh4/CIFAR10-ML-DL-Model-Comparison-Baseline-ResNet-DenseNet.git
+cd CIFAR10-ML-DL-Model-Comparison-Baseline-ResNet-DenseNet
 pip install -r requirements.txt
 jupyter notebook
